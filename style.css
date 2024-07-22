@@ -15,8 +15,8 @@
     text-align: center;
   }
   #launchPilates {
-    display: center;
-    
+    text-align: center;
+    align-items: center;
   }
 }
 .first-presentation {
