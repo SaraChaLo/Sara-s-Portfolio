@@ -14,9 +14,11 @@
   .third-presentation {
     text-align: center;
   }
-  #launchPilates {
-    text-align: center;
-    align-items: center;
+   #launchPilates{
+   display: inline-block;
+  }
+  #launchWeather{
+    display: inline-block;
   }
 }
 .first-presentation {
