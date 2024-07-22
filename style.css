@@ -12,10 +12,11 @@
     text-align: center;
   }
   .third-presentation {
-   text-align: center;
-  }
-  #launchPilates{
     text-align: center;
+  }
+  #launchPilates {
+    display: center;
+    
   }
 }
 .first-presentation {
