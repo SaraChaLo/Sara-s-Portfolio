@@ -3,6 +3,11 @@
   --secondarycolor: rgb(207, 162, 228);
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
+@media(max-width:576px) {
+img{display: none;}
+body{display: center;}
+  
+}
 .first-presentation {
   display: flex;
   justify-content: center;
@@ -14,6 +19,7 @@
 .third-presentation {
   display: flex;
   justify-content: center;
+  
 }
 .info {
   display: flex;
