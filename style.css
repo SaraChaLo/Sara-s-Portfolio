@@ -11,8 +11,11 @@
     display: center;
     text-align: center;
   }
-  #launchPilates {
-    justify-content: center;
+  .third-presentation {
+   text-align: center;
+  }
+  #launchPilates{
+    text-align: center;
   }
 }
 .first-presentation {
@@ -26,7 +29,7 @@
 .third-presentation {
   display: flex;
   justify-content: center;
-  text-align: (responsive);
+  align-items: center;
 }
 .info {
   display: flex;
