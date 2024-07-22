@@ -3,10 +3,17 @@
   --secondarycolor: rgb(207, 162, 228);
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
-@media(max-width:576px) {
-img{display: none;}
-body{display: center;}
-  
+@media (max-width: 576px) {
+  img {
+    display: none;
+  }
+  body {
+    display: center;
+    text-align: center;
+  }
+  #launchPilates {
+    justify-content: center;
+  }
 }
 .first-presentation {
   display: flex;
@@ -19,7 +26,7 @@ body{display: center;}
 .third-presentation {
   display: flex;
   justify-content: center;
-  
+  text-align: (responsive);
 }
 .info {
   display: flex;
@@ -140,4 +147,3 @@ body{display: center;}
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
-
