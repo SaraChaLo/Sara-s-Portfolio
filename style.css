@@ -14,10 +14,10 @@
   .third-presentation {
     text-align: center;
   }
-   #launchPilates{
-   display: inline-block;
+  #launchPilates {
+    display: inline-block;
   }
-  #launchWeather{
+  #launchWeather {
     display: inline-block;
   }
 }
